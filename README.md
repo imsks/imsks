@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋 I'm Sachin
 
-<!--
-**imsks/imsks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer and Founder of [The Boring Education](https://yourwebsite.com) 🚀  
+Currently building tools, communities, and products that help people learn and grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 &nbsp;Currently working on:  
+- 🚀 A micro-ed platform for tech & life skills  
+- 📰 A political accountability platform powered by AI  
+- 👥 Building a "Builders Community" for public learning
+
+📌 &nbsp;Previously worked on:  
+- 🛠 TraitDate – a dating app for Gen Z & professionals  
+- 🧬 InstaScan – AI for disease detection from scans
+
+---
+
+🧰 &nbsp;Tech Stack  
+`React.js` · `Next.js` · `Python` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Tailwind` · `Supabase`
+
+---
+
+📫 &nbsp;Reach out to collaborate, chat, or brainstorm  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-@theboringfounder-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/theboringfounder)
+
+---
+
+🌱 Always learning, building, and sharing.  
