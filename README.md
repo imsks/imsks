@@ -30,6 +30,18 @@ I build tools, communities, and open-source tech to help people learn, grow, and
 
 ---
 
+---
+
+🤖 Job Automation Projects  
+I’ve built basic automations that auto-apply to jobs with one click:
+
+- 🔁 [InstaHyre Job Auto Apply](https://gist.github.com/imsks/354950b536bde669d7ed786f0e72718c) – Script to auto-click and apply on matching job cards
+- 🔁 [Wellfound (AngelList) Auto Apply](https://gist.github.com/imsks/ab8d12a847b81ba4c635dedade5a3d4a) – Chrome console script to automate job applications
+
+> 🧠 Built using vanilla JS and browser APIs — plug-and-play automation for job seekers
+
+---
+
 📈 GitHub Stats  
 &nbsp;![](https://komarev.com/ghpvc/?username=imsks&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsks&show_icons=true&rank_icon=github&locale=en" alt="imsks" />
