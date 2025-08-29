@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sachin
 
-I'm the Co-founder at [The Boring Education](https://www.theboringeducation.com/) 🚀  and a Full-Stack Product Engineer.
+I'm the Co-founder at [The Boring Education](https://www.theboringeducation.com/) 🚀  and a Full-Stack AI Product Engineer.
 I build tools, communities, and open-source tech to help people learn, grow, and ship.
 
 ---
@@ -22,7 +22,7 @@ I build tools, communities, and open-source tech to help people learn, grow, and
 ---
 
 🚀 &nbsp;Career Snapshot  
-- 💼 4+ years of experience as a Full-Stack Engineer  
+- 💼 5+ years of experience as a Full-Stack Engineer  
 - 📱 2 years building mobile apps (Flutter + React Native)  
 - 🎯 Built & launched 10+ tech products end-to-end  
 - 🌐 Web3 enthusiast: 5+ DApps built on Solidity & Polygon  
