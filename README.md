@@ -16,8 +16,8 @@ I’ve built basic automations that auto-apply to jobs with one click:
 ---
 
 📫 &nbsp;Reach out to collaborate, chat, or brainstorm  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imsks)  
-[![ProductHunt](https://img.shields.io/badge/ProductHunt-Profile-ff3c00?logo=producthunt&style=flat)](https://www.producthunt.com/@imsks)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/imsks) [![ProductHunt](https://img.shields.io/badge/ProductHunt-Profile-ff3c00?logo=producthunt&style=flat)](https://www.producthunt.com/@imsks)
 
 ---
 
